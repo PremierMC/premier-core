@@ -1,0 +1,6 @@
+name: PremierCore
+version: ${project.version}
+main: net.premiermc.premiercore.PremierCore
+authors: [ ethsmith ]
+description: Core plugin for PremierMC misc. features
+website: https://premiermc.net
